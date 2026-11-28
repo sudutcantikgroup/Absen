@@ -1,7 +1,7 @@
 // Service worker Absen Online: menyimpan tampilan aplikasi supaya cepat terbuka.
 // Data absen selalu diambil langsung dari server (tidak disimpan di cache).
 // Naikkan angka VERSI setiap kali file aplikasi diubah.
-const VERSI = 'absen-v2';
+const VERSI = 'absen-v3';
 const FILES = ['./', './index.html', './config.js', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
