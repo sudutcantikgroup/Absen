@@ -1,7 +1,7 @@
 {
   "name": "Absen Online Sudut Cantik Group",
   "short_name": "Absen",
-  "description": "Absen masuk dan pulang karyawan Sudut Cantik Group",
+  "description": "Absen, ijin, sakit, cuti, dan reimbursement karyawan Sudut Cantik Group",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
